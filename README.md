@@ -1,5 +1,6 @@
-## import from (https://github.com/karpathy/llama2.c) (car je ne sais pas comment faire un lien ; apprentissage GitHub en cours)
+## import from (https://github.com/exo-explore/llama98.c/tree/win98) (car je ne sais pas comment faire un lien ; apprentissage GitHub en cours)
 ## voir article sur "https://blog.exolabs.net/day-4/"
+## projet basé sur la version originale de Andrej Karpathy's llama2.c - 700 lines of pure C that can run inference on models with Llama 2 architecture (https://github.com/karpathy/llama2.c ; non importée)
 
 ## llama2.c
 
