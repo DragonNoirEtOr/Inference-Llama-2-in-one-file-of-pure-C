@@ -1,4 +1,4 @@
-## import from https://github.com/exo-explore/llama98.c (car je ne sais pas comment faire un lien ; apprentissage GitHub en cours)
+## import from (https://github.com/karpathy/llama2.c) (car je ne sais pas comment faire un lien ; apprentissage GitHub en cours)
 ## voir article sur "https://blog.exolabs.net/day-4/"
 
 ## llama2.c
